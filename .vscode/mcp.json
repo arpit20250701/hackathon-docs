@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "research-mcp-server": {
+      "url": "https://your_url.com/mcp",
+      "type": "http",
+      "headers": {
+        "Authorization": "Bearer <your-token-here>"
+      }
+    }
+  }
+}
