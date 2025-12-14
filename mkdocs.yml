@@ -1,5 +1,6 @@
 site_name: HALDI(Hierarchical Analytics for Launch & Delivery Intelligence)
 docs_dir: docs
+site_dir: site
 
 plugins:
     - search
